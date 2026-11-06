@@ -21,8 +21,8 @@ whisper.cpp
                                                 └─ identical segments either way
 ```
 
-Open-source reference implementation extracted from my commercial work on a
-B2B workspace platform (proprietary business logic removed).
+Open-source reference implementation extracted from my own open-source project
+Sofia — a local-first desktop note-taking app with on-device AI (Tauri 2, Rust).
 
 ## The problem this solves
 
