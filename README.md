@@ -1,5 +1,8 @@
 # whisper-vtt-parser
 
+[![CI](https://github.com/klimenkod406/whisper-vtt-parser/actions/workflows/ci.yml/badge.svg)](https://github.com/klimenkod406/whisper-vtt-parser/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Parse the output of **`whisper.cpp` / `whisper-cli`** into timed transcription
 segments — handling **both** output formats the tool produces.
 
